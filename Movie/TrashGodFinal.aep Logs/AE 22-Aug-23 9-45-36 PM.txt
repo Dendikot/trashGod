@@ -1,0 +1,8 @@
+  22-Aug-23 9:45:36 PM: Starting composition “TrashGodFinalVid”.
+
+  Output To: D:\Temp\TrashGodFinalVid.avi    22-Aug-23 9:52:12 PM: Finished composition “TrashGodFinalVid”.
+
+
+  Total Time Elapsed: 6 Min, 36 Sec
+Log closed on 22-Aug-23 at 9:52:12 PM
+
